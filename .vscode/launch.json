@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/parkseyeon/Desktop/2B/ECE252/labs/lab1/src",
+      "program": "/Users/parkseyeon/Desktop/2B/ECE252/labs/lab1/src/build/Debug/outDebug"
+    }
+  ]
+}
